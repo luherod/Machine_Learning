@@ -8,6 +8,8 @@ For model selection, multiple regression models with regularization were tested 
 
 ## Requirements:
 
+* Python version: 3.12.7
+
 * Environment requirements: see [requirements.txt](https://github.com/luherod/Machine_Learning/blob/main/requirements.txt)
 
 ## Files description:
